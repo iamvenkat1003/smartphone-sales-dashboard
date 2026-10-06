@@ -1,0 +1,11 @@
+backend/.venv/
+backend/.env
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+.vite/
+*.log
+.pytest_cache/
+__pycache__/
+*.py[cod]
